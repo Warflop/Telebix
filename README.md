@@ -25,6 +25,8 @@ Send any message to your bot by Telegram.
 
 <h3>Installation</h3>
 
+<iframe src="https://player.vimeo.com/video/296483913" width="640" height="402" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 <pre>
 git clone https://github.com/Warflop/Telebix.git
 cd Telebix
