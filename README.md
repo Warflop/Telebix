@@ -25,7 +25,7 @@ Send any message to your bot by Telegram.
 
 <h3>Installation</h3>
 
-[![asciicast](https://asciinema.org/a/6YhgLrYt3f3WkavLiSIVckuCo.png)](https://asciinema.org/a/6YhgLrYt3f3WkavLiSIVckuCo)
+[![Watch the video](https://i.imgur.com/cLqPyus.png)](https://player.vimeo.com/video/296483913)
 
 <pre>
 git clone https://github.com/Warflop/Telebix.git
