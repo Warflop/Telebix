@@ -1,0 +1,20 @@
+In the search bar on Telegram, type "BotFather" and send the command "/newbot".
+
+The BotFather will ask for a name for your bot, after it will ask for a username as well.
+
+Copy the generated access Token.
+
+Send any message to your bot by Telegram.
+
+Go to the settings tab, paste your token and push the "Get ID" button to get your ID and save.
+
+
+Tips:
+
+You can manually add your ID, access the following address changing (TOKENHERE) by the copied token.
+
+https://api.telegram.org/bot(TOKENHERE)/getUpdates
+
+The same tutorial is available on the Github page with images.
+
+http://github.com/warflop/Telebix

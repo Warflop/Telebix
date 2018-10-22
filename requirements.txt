@@ -1,0 +1,7 @@
+python-telegram-bot
+configparser
+requests
+pyzabbix
+time
+sys
+os

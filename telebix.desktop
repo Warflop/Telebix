@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Telebix
+Comment=A tool to automate the integration between Telegram and Zabbix
+Exec=telebix
+Icon=/usr/share/telebix/resources/icon.png
+Terminal=false
+Type=Application
+StartupNotify=false
