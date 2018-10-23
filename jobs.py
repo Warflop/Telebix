@@ -9,23 +9,6 @@ import time
 import sys
 import os
 
-'''
-
-Dear programmer:
-
-When I wrote this code, only god and
-I Knew how it worked.
-Now, only god knows it!
-
-Therefore, if you're trying to optimize
-this routine and it fails (most surely),
-please increase this counter as a
-warning for the next person:
-
-total_hours_wasted_here = 730
-
-'''
-
 class App(QtGui.QMainWindow, design.Ui_Telebix):
 
     def __init__(self, parent=None):
