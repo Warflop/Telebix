@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /home/warflop/tcc/final && python telebix.py
+cd /usr/share/telebix/ && python telebix.py
